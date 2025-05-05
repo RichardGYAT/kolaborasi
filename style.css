@@ -122,6 +122,10 @@ header div{
     color: rgb(255, 255, 255);
     
 }
+.Contact{
+    background-image: url("background\ contact.jpg");
+}
+
 footer {
     background-color: #333;
     color: white;
