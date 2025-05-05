@@ -123,7 +123,9 @@ header div{
     
 }
 .Contact{
+    text-align: center;
     background-image: url("background\ contact.jpg");
+    padding: 20px;
 }
 
 footer {
