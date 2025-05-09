@@ -119,13 +119,15 @@ header div{
     border-radius: 5px;
     cursor: pointer;
     margin-top: 10px;
-    animation: goyang 2s;
-    transition: 0,5s;
+ 
+    
 }
 
 .product-card button a:hover {
     background-color: #000000;
     color: rgb(255, 255, 255);
+    animation: goyang 2s;
+    transition: 0,5s;
     
 }
 .Contact{
