@@ -159,7 +159,7 @@ footer a {
     }
 }
 
-/* Efek getar halus */
+
 @keyframes subtle-shake {
     0% { transform: scale(1.05) translateX(0); }
     30% { transform: scale(1.05) translateX(-1px); }
