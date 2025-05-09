@@ -14,6 +14,9 @@ header {
     color: rgb(255, 255, 255);
     padding: 10px 15px;
     text-align: center;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
 }
 
 header nav ul {
@@ -126,6 +129,7 @@ header div{
     text-align: center;
     background-image: url("background\ contact.jpg");
     padding: 20px;
+    height: 400px;
 }
 
 footer {
