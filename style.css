@@ -8,19 +8,19 @@ body {
     background-color: #f8f8f8;
     
 }
-
 header {
     background-color: #232321;
     color: rgb(255, 255, 255);
     padding: 10px 15px;
     text-align: center;
-    display: flex;
-    position: fixed;
-    justify-content: space-between;
+
 }
 
 header nav ul {
     list-style-type: none;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
 }
 
 header nav ul li {
