@@ -14,6 +14,8 @@ header {
     padding: 10px 15px;
     text-align: center;
     justify-content: space-between;
+    display: flex;
+    position: fixed;
 }
 
 header nav ul {
