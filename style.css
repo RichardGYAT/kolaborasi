@@ -21,7 +21,6 @@ header {
 header nav ul {
     list-style-type: none;
     display: flex;
-    position: fixed;
     justify-content: space-between;
     
 }
