@@ -42,6 +42,10 @@ header nav ul li a:hover{
     text-decoration: none;
     padding: 10px 15px;
     transition: background-color 0.3s;
+    transform: scale(1.05);
+    box-shadow: 0 10px 18px rgba(0, 0, 0, 0.2);
+    animation: subtle-shake 0.3s ease-in-out;
+    border: 2px solid #ff9900; 
 
     header div{
   text-align: left;
@@ -103,7 +107,7 @@ header nav ul li a:hover{
 
 }
 
-.product-card:hover {
+.product-card:hover{
     transform: scale(1.05);
     box-shadow: 0 10px 18px rgba(0, 0, 0, 0.2);
     animation: subtle-shake 0.3s ease-in-out;
