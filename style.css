@@ -124,7 +124,7 @@ header div{
     
 }
 
-.product-card button a:hover {
+.product-card button :hover {
     background-color: #000000;
     color: rgb(255, 255, 255);
     animation: goyang 2s;
