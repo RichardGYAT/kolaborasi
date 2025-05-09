@@ -37,7 +37,13 @@ header nav ul li a {
     padding: 10px 15px;
     transition: background-color 0.3s;
 }
-header div{
+header nav ul li a:hover{
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: background-color 0.3s;
+
+    header div{
   text-align: left;
   align-items: center ;
   
@@ -124,7 +130,7 @@ header div{
     
 }
 
-.product-card button :hover {
+.product-card button:hover {
     background-color: #000000;
     color: rgb(255, 255, 255);
     animation: goyang 2s;
